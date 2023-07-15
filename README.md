@@ -9,3 +9,6 @@ pip install -r requirements.txt
 
 python application.py
 
+### Website link 
+
+https://mathperformanceindicator.azurewebsites.net/predictdata
